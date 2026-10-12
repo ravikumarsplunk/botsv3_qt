@@ -5,7 +5,11 @@ A sample security dataset and CTF platform for information security professional
 
 | Dataset          | Description | Size | Format | MD5 |
 | ---------------- | ----------- | ---- | ------ | --- |
+<<<<<<< HEAD
 | [BOTS V3 Dataset](https://botsdataset.s3.amazonaws.com/botsv3/botsv3_data_set.tgz) |  BOTSv3 dataset. | 320.1MB | Pre-indexed Splunk | d7ccca99a01cff070dff3c139cdc10eb |
+=======
+| [BOTS V3 Dataset](https://botsdataset.s3.amazonaws.com/botsv3/botsv3_data_set.tgz) |  BOTSv3 dataset. | 320.1MB | Pre-indexed Splunk | a0757848cc207718279de50447da8eb2 |
+>>>>>>> parent of c30ca90 (Update README.md)
 
 
 ## Installation
